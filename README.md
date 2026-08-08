@@ -139,10 +139,10 @@ This allowed me to capture different ways Winnipeg was written in the dataset.
 
 > **Data limitation:** The missing Winnipeg salary information reflects a limitation in the dataset, not an error in the query.
 
-![Top Paying Roles](SQL_Projects\Visuals\Query_1\1.png)
+![Top Paying Roles](SQL_Projects/Visuals/Query_1/1.png)
 > *Top 10 highest-paying Data Analyst jobs in Canada based on the SQL query results.*
 
-![Top Paying Data Analyst Jobs Summary](SQL_Projects\Visuals\Query_1\2.png)
+![Top Paying Data Analyst Jobs Summary](SQL_Projects/Visuals/Query_1/2.png)
 > *Summary of the top-paying remote Data Analyst roles in Canada, highlighting the highest salary, leading employer, average salary, and key patterns across the top 10 results.*
 ---
 
@@ -206,11 +206,11 @@ A skill appearing less frequently does not necessarily mean that it is unimporta
 
 > **Data limitation:** One of the original top 10 job postings did not have matching skill information in the dataset, so it was not included in the final skills output.
 
-![Top Skills in Top-Paying Data Analyst Roles](SQL_Projects\Visuals\Query_2\1.png)
+![Top Skills in Top-Paying Data Analyst Roles](SQL_Projects/Visuals/Query_2/1.png)
 > *Top 10 skills listed across the top-paying remote Data Analyst roles in Canada, showing how often each skill appeared in the analyzed postings.*
 
 
-![Top-Paying Data Analyst Roles Skills Summary](SQL_Projects\Visuals\Query_2\2.png)
+![Top-Paying Data Analyst Roles Skills Summary](SQL_Projects/Visuals/Query_2/2.png)
 
 > *Summary of the top skills listed in the top-paying remote Data Analyst roles in Canada, highlighting the number of jobs analyzed, the most common skill, its frequency, and key patterns from the results.*
 
