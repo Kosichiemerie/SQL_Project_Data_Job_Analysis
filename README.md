@@ -1,6 +1,6 @@
 # The Data Analyst Career Market: An SQL Analysis
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Background](#background)
